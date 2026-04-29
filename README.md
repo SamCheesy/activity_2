@@ -14,7 +14,6 @@ This is a continuation of Assignment 1 — the failure function is reused here.
 | JDK | OpenJDK 21 |
 | IDE (optional) | IntelliJ IDEA / any text editor |
 
----
 
 This program was written in **Java** and can be run on any computer (Windows, Mac, or Linux).  
 You just need to have Java installed, or you can run it online using OnlineGDB — no installation needed.
