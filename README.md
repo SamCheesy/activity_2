@@ -15,8 +15,8 @@ You just need to have Java installed, or you can run it online using OnlineGDB â
 ## How to Run
 
 ```bash
-javac KMP_Assignment2.java
-java KMP_Assignment2
+javac Main.java
+java Main
 ```
 
 Then pick an option:
